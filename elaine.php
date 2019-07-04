@@ -40,9 +40,9 @@
 		<div class="side">  
 		<h2>List</h2>
 			<ul>
-			  <li><a href="#">London</a></li>
-			  <li><a href="#">Paris</a></li>
-			  <li><a href="#">Tokyo</a></li>
+			  <li><a href="https://127.0.0.1/jquery.html">JQuery</a></li>
+			  <li><a href="#">CSS</a></li>
+			  <li><a href="#">HTML</a></li>
 			</ul>
 	  </div>
 		<div class="main">
