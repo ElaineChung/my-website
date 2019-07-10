@@ -29,20 +29,20 @@
 	<!-- Navigation Bar -->
 	<div class="navbar">
 	  <a href="https://127.0.0.1/elaine.php">Home</a>
-	  <a href="https://127.0.0.1/Bussiness_card.html">Business card</a>
-	  <a href="https://127.0.0.1/Portfolio.html">Portfolio</a>
-	  <a href="https://127.0.0.1/Autobiography.html">Autobiography</a>
+	  <a href="https://127.0.0.1/business.php">Business card</a>
+	  <a href="https://127.0.0.1/portfolio.php">Portfolio</a>
+	  <a href="https://127.0.0.1/autobiography.php">Autobiography</a>
 	</div>
 
 	<!-- The flexible grid (content) -->
 	<div class="row">
-	  <div class="side">
-		<p>You are never too old to set another goal or to dream a new dream.</p>
-		<h3>More Text</h3>
-		<p>Lorem ipsum dolor sit ame.</p>
-		<div class="fakeimg" style="height:60px;">Image</div><br>
-		<div class="fakeimg" style="height:60px;">Image</div><br>
-		<div class="fakeimg" style="height:60px;">Image</div>
+	  <div class="side">  
+		<h2>List</h2>
+			<ul>
+			  <li><a href="https://127.0.0.1/jquery.html">JQuery</a></li>
+			  <li><a href="#">CSS</a></li>
+			  <li><a href="#">HTML</a></li>
+			</ul>
 	  </div>
 	  <div class="main">
 		<h2>About Me</h2>

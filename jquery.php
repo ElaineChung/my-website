@@ -10,9 +10,9 @@
 	<script type="text/javascript" src="/js/moving-letters.js"></script>
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script src="jquery.slides.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<style type="text/css">
-	 @import "style.css";
+	@import "style.css";
+	
 	</style>
 </head>
 <body>
@@ -48,25 +48,20 @@
 		<div class="main">
 		  <h2>JQuery Load</h2>
 		  <h5>Title description, Dec 7, 2017</h5>
-			
-			
-			<p><p class="fakeimg"><br>&lt;script&gt;<br />
+			<div class="fakeimg" style="height:200px;">Image</div>
+			<p>Some text..</p>
+			<p><p><br>&lt;script&gt;<br />
 					<br>$(document).ready(function(){ <br />
 					<br>&nbsp; &nbsp;&nbsp; &nbsp;$('#content').load("new.html")<br /> 
-					<br>;&nbsp;})<br />
+					<br>;&nbsp;})
+					<br />
 					<br>;&lt;/script&gt;<br /></p>
-				<p><a href="" style="text-align:right";>Some text..</a></p>
 				<p>
 				<br>&lt;body&gt;<br>
 					<br>&lt;div id="content"&gt;&lt;/div&gt;<br>
 				</p></p>
-				
 			<br>
-			<h2>TITLE HEADING</h2>
-			<h5>Title description, Sep 2, 2017</h5>
-			<div class="fakeimg" style="height:200px;">Image</div>
-			<p>Some text..</p>
-			<p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+			
 		</div>
 	</div>
 

@@ -42,6 +42,8 @@ body {
 .row {  
   display: flex;
   flex-wrap: wrap;
+  padding-left : 30px;
+  padding-right : 30px;
 }
 
 /* Create two unequal columns that sits next to each other */
@@ -49,7 +51,7 @@ body {
 .side {
   flex: 20%;
   background-color: #f1f1f1;
-  padding-left : 35px;
+  padding-left : 20px;
   padding-right : 20px;
 }
 
@@ -57,16 +59,18 @@ body {
 .main {
   flex: 80%;
   background-color: white;
-  padding: 20px;
-  padding-right:35px;
+  padding: 10px;
+  padding-right:30px;
+  padding-left:30px;
 }
 
 /* Fake image, just for this example */
 .fakeimg {
   background-color: #f1f1f1;
   width: 100%;
-  padding: 20px;
   height:200px;
+  padding-left:20px;
+  padding-top:5px;
 }
 
 /* img auto setting */
